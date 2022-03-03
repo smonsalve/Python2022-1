@@ -9,4 +9,3 @@ for i  in range(20):
     cont += 1
     
 f.close()
-
